@@ -45,6 +45,9 @@ Todos los archivos preconstruidos están ya cargados en este repo, sin embargo l
 
 Modifica **setup.py** con tu propia información.
 
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
 ```python
 from setuptools import setup, find_packages
 
